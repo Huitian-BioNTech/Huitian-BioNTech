@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Huitian-BioNTech
+- 👋 Hi, I’m @YolandaHuitianDiao
 - 👀 I’m interested in Immunology & Machine Learning
 - 🌱 I’m currently learning Machine Learning & AI
 - 💞️ I’m looking to collaborate on Music Visualization
